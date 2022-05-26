@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-ngo&theme=gruvbox&show_icons=true&count_private=true)
 
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
