@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-ngo&theme=dark&show_icons=true)
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-ngo&theme=gruvbox&show_icons=true&count_private=true)
 
 <!--
 **matt-ngo/matt-ngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
